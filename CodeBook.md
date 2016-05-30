@@ -69,9 +69,9 @@ The resultant variables used for this analysis are:
 [30] "SD.Body.Gyro.Jerk.x.axis.TimeDomain"                                  
 			standard deviation body component gyroscope jerk							
 [31] "SD.Body.Gyro.Jerk.y.axis.TimeDomain"                                  
-			standard deviation body component gyroscope jerk										
+			standard deviation body component gyroscope jerk				
 [32] "SD.Body.Gyro.Jerk.z.axis.TimeDomain"                                  
-			standard deviation body component gyroscope jerk										
+			standard deviation body component gyroscope jerk						
 [33] "mean.SignalMagnitude.Body.Acceleration.TimeDomain"                    
 			mean signal magnitude body component accelerometer
 [34] "SD.SignalMagnitude.Body.Acceleration.TimeDomain"                      
@@ -79,7 +79,7 @@ The resultant variables used for this analysis are:
 [35] "mean.SignalMagnitude.Gravity.Acceleration.TimeDomain"                 
 			mean signal magnitude gravity component accelerometer			
 [36] "SD.SignalMagnitude.Gravity.Acceleration.TimeDomain"                   
-			standard deviation signal magnitude gravity component accelerometer						
+			standard deviation signal magnitude gravity component accelerometer			
 [37] "mean.SignalMagnitude.Body.Acceleration.Jerk.TimeDomain"               
 			mean signal magnitude body component accelerometer jerk
 [38] "SD.SignalMagnitude.Body.Acceleration.Jerk.TimeDomain"                 
@@ -91,7 +91,7 @@ The resultant variables used for this analysis are:
 [41] "mean.SignalMagnitude.Body.Gyro.Jerk.TimeDomain"                       
 			mean signal magnitude body component gyroscope jerk			
 [42] "SD.SignalMagnitude.Body.Gyro.Jerk.TimeDomain"                         
-			standard deviation signal magnitude body component gyroscope jerk						
+			standard deviation signal magnitude body component gyroscope jerk		
 [43] "mean.Body.Acceleration.x.axis.FrequencyDomain"                        
 			mean body motion component accelerometer			
 [44] "mean.Body.Acceleration.y.axis.FrequencyDomain"                        
@@ -101,9 +101,9 @@ The resultant variables used for this analysis are:
 [46] "SD.Body.Acceleration.x.axis.FrequencyDomain"                          
 			standard deviation body motion component accelerometer						
 [47] "SD.Body.Acceleration.y.axis.FrequencyDomain"                          
-			standard deviation body motion component accelerometer									
+			standard deviation body motion component accelerometer	
 [48] "SD.Body.Acceleration.z.axis.FrequencyDomain"                          
-			standard deviation body motion component accelerometer									
+			standard deviation body motion component accelerometer		
 [49] "mean.Frequency.Body.Acceleration.x.axis.FrequencyDomain"              
 			mean frequency body motion component accelerometer	
 [50] "mean.Frequency.Body.Acceleration.y.axis.FrequencyDomain"              
